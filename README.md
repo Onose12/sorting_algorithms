@@ -1,2 +1,2 @@
 # sorting_algorithms
-An Alx Big O notations repository
+An Alx Big O notations project
